@@ -21,5 +21,5 @@ Desenvolvedora Power Platform com foco em automação de processos e integraçã
 🔹 App de controle de produção integrado ao SharePoint  
 
 ## 📫 Contato
-E-mail:rodrigueshadassa2003@gmail.com
-Cel: 11948778176
+E-mail: rodrigueshadassa2003@gmail.com
+tel: 11948778176
